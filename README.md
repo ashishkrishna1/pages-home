@@ -1,7 +1,5 @@
 # pages-home
 
-This repository contains the source code for the "pages-home" project.
-
 ## Project Overview
 
 Describe your project here. Include its purpose, main features, and any relevant background information.
